@@ -1,1 +1,1 @@
-write vim plugin use python.
+how to write vim plugin with python.
